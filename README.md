@@ -1,2 +1,6 @@
 # Dload_Wind_load
-distributed airodynamic load modeling.
+Note regarding: distributed aerodynamic wind load modeling.
+
+
+
+
